@@ -1,11 +1,14 @@
 ﻿// Вид 1
+
 // void Method1()
 // {
 //     Console.WriteLine("Автор ...");
 // }
 // Method1(); // Вызов метода.
 
+
 //Вид2
+
 // void Method2(string msg)
 // {
 //     Console.WriteLine(msg);
@@ -24,6 +27,7 @@
 //Method21(msg: "Текст", count: 4);
 //Method21(count: 4, msg: "новый текст");
 
+
 //Вид3
 
 int Method3 ()
@@ -33,19 +37,45 @@ int Method3 ()
 int year = Method3();
 //Console.WriteLine(year);
 
+
 //Вид4
 
-string Method4(int count, string text)
-{
-    int i = 0;
-    string result = String.Empty;
+// string Method4(int count, string text)
+// {
+//     int i = 0;
+//     string result = String.Empty;
 
-    while (i < count)
+//     while (i < count)
+//     {
+//         result = result + text;
+//         i++;
+//     }
+//     return result;
+// }
+// string res = Method4(10, "ld");
+// Console.WriteLine(res);
+
+
+// Использование цыкла for
+
+// string Method4(int count, string text)
+// {
+//     string result = String.Empty;
+//     for (int i = 0; i < count; i++)
+//     {
+//         result = result + text;
+//     }
+//     return result;
+// }
+// string res = Method4(10, "ld");
+// Console.WriteLine(res);
+
+
+for(int i =1; i<=10; i++)
+{
+    for ( int j = 2; j<= 10; j++)
     {
-        result = result + text;
-        i++;
+        Console.WriteLine($"{i} * {j} = {i * j}");
     }
-    return result;
+    Console.WriteLine();
 }
-string res = Method4(10, "ld");
-Console.WriteLine(res);
