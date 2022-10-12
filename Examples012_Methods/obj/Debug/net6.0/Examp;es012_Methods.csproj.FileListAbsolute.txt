@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\bin\Debug\net6.0\Examp;es012_Methods.exe
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\bin\Debug\net6.0\Examp;es012_Methods.deps.json
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\bin\Debug\net6.0\Examp;es012_Methods.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\bin\Debug\net6.0\Examp;es012_Methods.dll
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\bin\Debug\net6.0\Examp;es012_Methods.pdb
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.dll
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\refint\Examp;es012_Methods.dll
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.pdb
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\Examp;es012_Methods.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examp;es012_Methods\obj\Debug\net6.0\ref\Examp;es012_Methods.dll
