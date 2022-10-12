@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\bin\Debug\net6.0\Examples_0122_Methods.exe
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\bin\Debug\net6.0\Examples_0122_Methods.deps.json
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\bin\Debug\net6.0\Examples_0122_Methods.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\bin\Debug\net6.0\Examples_0122_Methods.dll
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\bin\Debug\net6.0\Examples_0122_Methods.pdb
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.dll
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\refint\Examples_0122_Methods.dll
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.pdb
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\Examples_0122_Methods.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\Лекции\Функции продолжение\Examples_0122_Methods\obj\Debug\net6.0\ref\Examples_0122_Methods.dll
